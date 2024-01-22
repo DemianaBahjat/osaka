@@ -1,5 +1,5 @@
 
-The Osaka LinkedIn project is a web application developed 
+The Osaka project is a web application developed 
 using HTML, CSS, JavaScript, and jQuery 
 that aims to connect professionals and businesses within the Osaka, Japan region. It provides a platform for networking, job opportunities, industry discussions, and professional growth specific to the Osaka business community.
 
